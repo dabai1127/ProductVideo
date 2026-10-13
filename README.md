@@ -2,7 +2,7 @@
 
 一款离线使用的网页视频制作工具。导入视频和图片，搭配文字、转场与配乐，制作产品宣传片、功能演示和视频合集。双击 `打开应用.cmd` 或 `index.html` 即可使用，推荐最新版 Edge 或 Chrome。
 
-![](C:\Users\it_ch\Desktop\科普视频\产品宣传制作\preview.png)
+![](https://github.com/dabai1127/ProductVideo/blob/main/preview.png?raw=true)
 
 ## 主要功能
 
